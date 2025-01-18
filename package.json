@@ -1,0 +1,14 @@
+{
+  "name": "express-backend-app",
+  "version": "1.0.0",
+  "description": "Express appp",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test.expressapp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
