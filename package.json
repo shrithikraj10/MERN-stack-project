@@ -1,7 +1,7 @@
 {
   "name": "express-backend-app",
   "version": "1.0.0",
-  "description": "Express appp",
+  "description": "Express app",
   "main": "index.js",
   "scripts": {
     "test": "Test.expressapp"
