@@ -4,7 +4,7 @@
   "description": "Express app",
   "main": "index.js",
   "scripts": {
-    "test": "Test.expressappw"
+    "test": "Test.expressappws"
   },
   "author": "",
   "license": "ISC",
