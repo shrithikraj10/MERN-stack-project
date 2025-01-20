@@ -10,7 +10,7 @@ app.get('/route1', (req, res)=>{
 app.get('/route2', (req, res)=>{
     res.send(`
         <html>
-        <
+        <>
         <h1>this is a webpage</h1>
         </>`)
        })
