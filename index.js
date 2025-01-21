@@ -1,11 +1,12 @@
 
 const express = require('express')
 const app = express()
-const port = 3001
+const port = 3000
 
-app.post('/login', (req, res)=>{
-    res.send('this is a new server on route 1')
-})
+app.post('/login', (req, res) => {
+    res.send(``);
+});
+
 
 app.post('/signup', (req, res)=>{
     res.send(`
